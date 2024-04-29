@@ -1,0 +1,32 @@
+{
+	"inline_keyboard": [
+		[
+			{
+				"callback_data": "MqNbLsxPjhg",
+				"text": "1"
+			},
+			{
+				"callback_data": "_lHbv_T1kFY",
+				"text": "2"
+			},
+			{
+				"callback_data": "s09LA_pdwDk",
+				"text": "3"
+			}
+		],
+		[
+			{
+				"callback_data": "dw6EHYLnKpw",
+				"text": "4"
+			},
+			{
+				"callback_data": "PWYNeD6RKR4",
+				"text": "5"
+			},
+			{
+				"callback_data": "FBZW18fHYk0",
+				"text": "6"
+			}
+		]
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"anasteyshen_zbot": "https://api.telegram.org/bot{TOKEN}/",
+	"answers": {},
+	"audio_inline_keyboard_markup": {
+		"inline_keyboard": [
+			[
+				{
+					"callback_data": "yt:Opxhh9Oh3rg",
+					"text": "1"
+				},
+				{
+					"callback_data": "yt:NCtzkaL2t_Y",
+					"text": "2"
+				},
+				{
+					"callback_data": "yt:2Q_ZzBGPdqE",
+					"text": "3"
+				}
+			],
+			[
+				{
+					"callback_data": "yt:A_MjCqQoLLA",
+					"text": "4"
+				},
+				{
+					"callback_data": "yt:FusIKjztap8",
+					"text": "5"
+				},
+				{
+					"callback_data": "yt:45cYwDMibGo",
+					"text": "6"
+				}
+			]
+		]
+	},
+	"dosomething_inline_keyboard_markup": {
+		"inline_keyboard": [
+			[
+				{
+					"callback_data": "left_button_1",
+					"text": "Нажати кнопку один"
+				},
+				{
+					"callback_data": "right_button_1",
+					"text": "Не жми сюди"
+				}
+			],
+			[
+				{
+					"callback_data": "bottom_button",
+					"text": "Видалити все"
+				}
+			]
+		]
+	},
+	"download_file": "https://api.telegram.org/file/bot{TOKEN}/",
+	"dreams": [],
+	"get_updates_offset": 332018256,
+	"responses": {
+		"dosomething_ans": "Що мені робити?",
+		"greeting": "Ну що, привіт, новий друже! 🤪",
+		"send_dreams_false": "Ну все, нічого тобі не буду говорити (",
+		"send_dreams_true": ":)",
+		"text_link_ans": ", що це?",
+		"url_ans": "Хочеш поговорити про це?"
+	},
+	"time_for_dreams": {
+		"hours_for_dreams": 8,
+		"minutes_for_dreams": 7
+	}
+}
